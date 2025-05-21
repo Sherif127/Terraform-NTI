@@ -61,7 +61,7 @@ This project automates the deployment of a **secure** and **scalable** cloud inf
 
 ## Screen Shots
 - **Main VPC**
-![Image](Images/main vpc.PNG)
+![Image](https://raw.githubusercontent.com/Sherif127/Terraform-NTI/refs/heads/main/Images/main%20vpc.PNG))
 - **External Load Balancer**
 ![Image](Images/External-lb.PNG)
 - **Internal Load Balancer**
