@@ -18,7 +18,7 @@ This project automates the deployment of a **secure** and **scalable** cloud inf
 
 ## 🏗️ **Architecture Diagram**
 
-![Architecture Diagram](architicture.jpg)
+![Architecture Diagram](Images/architicture.jpg)
 
 > The diagram shows a **VPC** with two Load Balancers distributing internet traffic efficiently using **Nginx** as a reverse proxy and backend web servers across multiple **Availability Zones (AZs)**.
 
@@ -61,17 +61,17 @@ This project automates the deployment of a **secure** and **scalable** cloud inf
 
 ## Screen Shots
 - **Main VPC**
-![Image](<main vpc.PNG>)
+![Image](Images/main vpc.PNG)
 - **External Load Balancer**
-![Image](External-lb.PNG)
+![Image](Images/External-lb.PNG)
 - **Internal Load Balancer**
-![Image](Internal-lb.PNG)
+![Image](Images/Internal-lb.PNG)
 - **S3 Bucket (Terraform State Storage)**
-![Image](s3-bucket.PNG)
+![Image](Images/s3-bucket.PNG)
 - **EC2 Instances**
-![Image](EC2.PNG)
+![Image](Images/EC2.PNG)
 - **Testing with External Load Balancer DNS**
-![Image](server1.PNG)  ![Image](server2.PNG)
+![Image](Images/server1.PNG)  ![Image](Images/server2.PNG)
 
 
 ---
