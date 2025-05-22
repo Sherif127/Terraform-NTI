@@ -18,7 +18,7 @@ This project automates the deployment of a **secure** and **scalable** cloud inf
 
 ## 🏗️ **Architecture Diagram**
 
-![Architecture Diagram](Images/architicture.jpg)
+![Image](https://github.com/user-attachments/assets/43abfc17-d0fe-4f4f-9ca9-3fc95a95b562)
 
 > The diagram shows a **VPC** with two Load Balancers distributing internet traffic efficiently using **Nginx** as a reverse proxy and backend web servers across multiple **Availability Zones (AZs)**.
 
@@ -61,17 +61,17 @@ This project automates the deployment of a **secure** and **scalable** cloud inf
 
 ## Screen Shots
 - **Main VPC**
-![Image](https://raw.githubusercontent.com/Sherif127/Terraform-NTI/refs/heads/main/Images/main%20vpc.PNG))
+![Image](https://github.com/user-attachments/assets/b77c793c-8a68-4744-b5cd-39641ae7d355)
 - **External Load Balancer**
-![Image](Images/External-lb.PNG)
+![Image](https://github.com/user-attachments/assets/87beb548-a545-4a63-b7b1-217f5cfd6525)
 - **Internal Load Balancer**
-![Image](Images/Internal-lb.PNG)
+![Image](https://github.com/user-attachments/assets/99d0b47c-63a4-4d2d-9aa1-2fd20d72261b)
 - **S3 Bucket (Terraform State Storage)**
-![Image](Images/s3-bucket.PNG)
+![Image](https://github.com/user-attachments/assets/1f2b7e05-62fb-4ebe-b8d2-76452a3ecc63)
 - **EC2 Instances**
-![Image](Images/EC2.PNG)
+![Image](https://github.com/user-attachments/assets/28535fc0-ca38-4ef4-a42d-36b48d3ac496)
 - **Testing with External Load Balancer DNS**
-![Image](Images/server1.PNG)  ![Image](Images/server2.PNG)
+![Image](https://github.com/user-attachments/assets/bd6530f5-7d80-4027-9048-24e70565a3e2)  ![Image](https://github.com/user-attachments/assets/4d6eefae-511e-4cb8-bbca-5f754bc8831e)
 
 
 ---
